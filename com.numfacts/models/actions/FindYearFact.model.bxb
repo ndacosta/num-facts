@@ -1,0 +1,12 @@
+action (FindYearFact) {
+  type (Search)
+  description (Get a fact about a year)
+  collect {
+    input (yearFact) {
+      type (YearFact)
+      min (Required)
+      max (One)
+    }
+  }
+  output (YearFactResult)
+}

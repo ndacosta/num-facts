@@ -1,0 +1,4 @@
+train (t-omdwdajhunu8flxe3jhqynaox) {
+  utterance ("[g:com.numfacts.YearFactResult] give me a fact about the year {[g:com.numfacts.YearFact] (2000)[v:viv.time.Year]}")
+  plan (Y2BhkE7Oz9XLK81NS0wuKdaLTE0scgOyglKLS3NKGCRRJN0y81JgChhEsepj4C3LLNMrycxNBQsxMDMwMjABSQYwzQikWYAYxGeCyAEA)
+}

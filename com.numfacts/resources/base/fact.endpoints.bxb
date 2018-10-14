@@ -1,0 +1,25 @@
+endpoints {
+  authorization {
+    none
+    
+  }
+
+  action-endpoints {
+    action-endpoint (FindNumFact) {
+      accepted-inputs (numFact, type)
+      local-endpoint (FindNumFact.js)
+    }
+    action-endpoint (FindDateFact) {
+      accepted-inputs (dateFact)
+      local-endpoint (FindDateFact.js)
+    }
+    action-endpoint (FindYearFact) {
+      accepted-inputs (yearFact)
+      local-endpoint (FindYearFact.js)
+    }
+    action-endpoint (FindRandomFact) {
+      accepted-inputs (type)
+      local-endpoint (FindRandomFact.js)
+    }
+  }
+}

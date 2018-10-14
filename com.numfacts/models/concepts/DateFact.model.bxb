@@ -1,0 +1,4 @@
+structure (DateFact) {
+  description (The date to get the fact)
+  role-of (viv.time.Date)
+}

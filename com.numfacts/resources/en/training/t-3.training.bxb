@@ -1,0 +1,4 @@
+train (t-3rmbsa5logvpaw97jf975db5c) {
+  utterance ("[g:DateFactResult] what happend on {[g:DateFact] (may 19)[v:viv.time.Date]}")
+  plan (Y2BhkE7Oz9XLK81NS0wuKdZzSSxJdQOyglKLS3NKGCRRJN0y81JgChhEsepj4C3LLNMrycxNBQsxMDMwMjABSQYwzQikWYAYxGeCyAEA)
+}

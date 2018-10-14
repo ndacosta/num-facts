@@ -1,0 +1,4 @@
+train (t-uu5brxjew98uxb0yacstweco4) {
+  utterance ("[g:RandomFactResult] tell me something about (math)[v:RandomFactType:math]")
+  plan (Y2BmkE3Oz9XLK81NS0wuKdYLSsxLyc91A7KDUotLc0oYpFGk3TLzUhBK0CQREiGVBakMTAyMQMwAJBkZQIAJggE=)
+}

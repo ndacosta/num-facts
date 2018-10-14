@@ -1,0 +1,4 @@
+train (t-5j0xo77rl1gci6led0nmvs9cu) {
+  utterance ("[g:com.numfacts.NumFactResult] what's interesting about (7)[v:com.numfacts.NumFact]")
+  plan (Y2BhkErOz9XLK81NS0wuKdbzK811AzKCUotLc0oYJFDk3DLzUqDyDCLYdKGph4qGVBakMjAzMDIwAUkGIA2CEMAEwQA=)
+}

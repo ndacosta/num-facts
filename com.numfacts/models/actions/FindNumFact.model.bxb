@@ -1,0 +1,25 @@
+action (FindNumFact) {
+  type (Search)
+  description (Get a Num Fact)
+  collect {
+    input (numFact) {
+      type (NumFact)
+      min (Required) 
+      max (One)
+    }
+    input (type) {
+      type (NumFactType)
+      min (Required) 
+      max (One)
+      default-init {
+         intent {
+           goal { NumFactType }
+           value {
+             NumFactType (trivia)
+           }
+         }
+       }
+    }
+  }
+  output (NumFactResult)
+}

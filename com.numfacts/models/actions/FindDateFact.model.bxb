@@ -1,0 +1,17 @@
+action (FindDateFact) {
+  type (Search)
+  description (Get a Date Fact)
+  collect {
+    input (dateFact) {
+      type (DateFact)
+      min (Required) 
+      max (One)
+      default-select {
+        with-rule {
+          select-first
+        }
+      }
+    }
+  }
+  output (DateFactResult)
+}

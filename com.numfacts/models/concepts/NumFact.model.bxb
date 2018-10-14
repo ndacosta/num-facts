@@ -1,0 +1,3 @@
+integer (NumFact) {
+  description (Number to get the fact)
+}

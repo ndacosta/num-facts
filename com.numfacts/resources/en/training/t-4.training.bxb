@@ -1,0 +1,12 @@
+train (t-43hc6smfedjw0c7ixpltxuff8) {
+  utterance ("[g:NumFactResult] Give me a (math)[v:NumFactType:math] fact about (42.)[v:NumFact]")
+  plan (Y2BhkErOz9XLK81NS0wuKdbzK811AzKCUotLc0oYJFDk3DLzUqDyDCLYdKGph4qGVBakMjAzMDIwAUkGIA2CEADig0UB)
+}
+train (t-49pbslbi2nbf2m03ooz1nyo2x) {
+  utterance ([g:com.numfacts.RandomFactResult] tell me something about a number)
+  plan (Y2BkkE3Oz9XLK81NS0wuKdYLSsxLyc91A7KDUotLc0oYQIARRAAA)
+}
+train (t-4thu8d5zphoslvhg5m0q51h4l) {
+  utterance ("[g:com.numfacts.DateFactResult] give me a fact about {[g:com.numfacts.DateFact] (April 27th)[v:viv.time.Date]}")
+  plan (Y2BhkE7Oz9XLK81NS0wuKdZzSSxJdQOyglKLS3NKGCRRJN0y81JgChhEsepj4C3LLNMrycxNBQsxMDMwMjABSQYwzQikWYAYxGeCyAEA)
+}

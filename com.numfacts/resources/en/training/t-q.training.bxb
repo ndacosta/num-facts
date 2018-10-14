@@ -1,0 +1,12 @@
+train (t-q17d4pwxkew26jngozwghq7gp) {
+  utterance ("[g:com.numfacts.NumFactResult] give me a (fun)[v:com.numfacts.NumFactType:trivia] fact about the number (10)[v:com.numfacts.NumFact]")
+  plan (Y2BhkErOz9XLK81NS0wuKdbzK811AzKCUotLc0oYJFDk3DLzUqDyDCLYdKGph4qGVBakMjAzMDIwAUkGIA2CEADig0UB)
+}
+train (t-qvx8sfc7xzc8pz4if3afxjmbx) {
+  utterance ("[g:NumFactResult] Tell me something about the number (8)[v:NumFact]")
+  plan (Y2BhkErOz9XLK81NS0wuKdbzK811AzKCUotLc0oYJFDk3DLzUqDyDCLYdKGph4qGVBakMjAzMDIwAUkGIA2CEMAEwQA=)
+}
+train (t-qw4fmgc28w9sgrsmo0ypxney2) {
+  utterance ("[g:com.numfacts.NumFactResult] give me a (math)[v:com.numfacts.NumFactType:math] fact about the number (45)[v:com.numfacts.NumFact]")
+  plan (Y2BhkErOz9XLK81NS0wuKdbzK811AzKCUotLc0oYJFDk3DLzUqDyDCLYdKGph4qGVBakMjAzMDIwAUkGIA2CEADig0UB)
+}

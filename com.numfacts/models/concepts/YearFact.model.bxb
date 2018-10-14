@@ -1,0 +1,4 @@
+integer (YearFact) {
+  description (Year to get fact)
+  role-of (viv.time.Year)
+}

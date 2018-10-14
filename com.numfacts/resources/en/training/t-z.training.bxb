@@ -1,0 +1,4 @@
+train (t-zmpj8nhzl2819ftk3d6vipre7) {
+  utterance ("[g:com.numfacts.RandomFactResult] give a (fun)[v:com.numfacts.RandomFactType:trivia] fact about a number")
+  plan (Y2BmkE3Oz9XLK81NS0wuKdYLSsxLyc91A7KDUotLc0oYpFGk3TLzUhBK0CQREiGVBakMTAyMQMwAJBkZQIAJggE=)
+}

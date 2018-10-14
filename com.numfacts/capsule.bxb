@@ -1,0 +1,11 @@
+capsule {
+  id (com.numfacts)
+  version (0.1.0)
+  format (3)
+  targets {
+    target (bixby-mobile-en-US)
+  }
+  capsule-imports {
+    import (viv.time) { version (2.61.32) }
+  }
+}

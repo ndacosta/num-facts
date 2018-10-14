@@ -1,0 +1,4 @@
+train (t-d1ju7l6yeaop7z74mu0rad77b) {
+  utterance ("[g:YearFactResult] What's interesting about year {[g:YearFact] (2000)[v:viv.time.Year]}")
+  plan (Y2BhkE7Oz9XLK81NS0wuKdaLTE0scgOyglKLS3NKGCRRJN0y81JgChhEsepj4C3LLNMrycxNBQsxMDMwMjABSQYwzQikWYAYxGeCyAEA)
+}

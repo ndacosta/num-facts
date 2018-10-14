@@ -1,0 +1,4 @@
+train (t-kdsvn0q4812kd6l3oqprtjuqi) {
+  utterance ("[g:com.numfacts.YearFactResult] what interesting happened in {[g:com.numfacts.YearFact] (1900)[v:viv.time.Year]}")
+  plan (Y2BhkE7Oz9XLK81NS0wuKdaLTE0scgOyglKLS3NKGCRRJN0y81JgChhEsepj4C3LLNMrycxNBQsxMDMwMjABSQYwzQikWYAYxGeCyAEA)
+}

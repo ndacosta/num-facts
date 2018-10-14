@@ -1,0 +1,5 @@
+enum (NumFactType) {
+  description (Num fact types)
+  symbol (math)
+  symbol (trivia)
+}

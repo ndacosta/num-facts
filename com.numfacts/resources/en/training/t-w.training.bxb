@@ -1,0 +1,4 @@
+train (t-waxd06qzjtzj5sv0sm1ftm9xq) {
+  utterance ("[g:com.numfacts.RandomFactResult] tell me something interesting about a (year)[v:com.numfacts.RandomFactType:year]")
+  plan (Y2BmkE3Oz9XLK81NS0wuKdYLSsxLyc91A7KDUotLc0oYpFGk3TLzUhBK0CQREiGVBakMTAyMQMwAJBkZQIAJggE=)
+}

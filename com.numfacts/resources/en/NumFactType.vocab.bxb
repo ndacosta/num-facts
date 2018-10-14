@@ -1,0 +1,13 @@
+vocab (NumFactType) {
+  "math" {
+    "math"
+    "maths"
+    "mathematic"
+    "mathematics"
+    "calculus"
+  }
+  "trivia" {
+    "trivia"
+    "fun"
+  }
+}

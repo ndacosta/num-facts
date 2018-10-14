@@ -1,0 +1,19 @@
+vocab (RandomFactType) {
+  "math" {
+    "math"
+    "maths"
+    "mathematic"
+    "mathematics"
+    "calculus"
+  }
+  "trivia" {
+    "trivia"
+    "fun"
+  }
+  "year" {
+    "year"
+  }
+  "date" {
+    "date"
+  }
+}

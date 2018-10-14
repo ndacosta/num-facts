@@ -1,0 +1,6 @@
+enum (RandomFactType) {
+  description (Type of fact)
+  extends (NumFactType)
+  symbol (year)
+  symbol (date)
+}
